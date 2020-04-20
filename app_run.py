@@ -9,7 +9,7 @@ from dbModel import *
 import os
 import xlrd
 
-new_model = tf.keras.models.load_model('spec.h5')
+new_model = tf.keras.models.load_model('your tf file.h5')
 
 #app = Flask(__name__)
 @app.route('/')
