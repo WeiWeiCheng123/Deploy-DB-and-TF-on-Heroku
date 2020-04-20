@@ -1,0 +1,16 @@
+Click==7.0
+Flask==1.1.1
+Flask-SQLAlchemy==2.4.1
+Flask-Migrate==2.5.3
+flask_script==2.0.6
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+Werkzeug==0.16.0
+psycopg2==2.8.4
+tensorflow==2.0.0a0
+setuptools==41.4.0
+numpy==1.18.0
+pandas==0.25.1
+xlrd==1.2.0
