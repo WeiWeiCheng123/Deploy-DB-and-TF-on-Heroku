@@ -9,8 +9,8 @@ from dbModel import *
 import os
 import xlrd
 
-new_model = tf.keras.models.load_model('your tf file.h5')
-
+new_model = tf.keras.models.load_model('xxxx.h5')
+放模型ㄉ 放在同一個資料夾底下
 #app = Flask(__name__)
 @app.route('/')
 @app.route('/index')
